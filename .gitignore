@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+*.log
+Configuracion*.txt
+.env
+*.md
